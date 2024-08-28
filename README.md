@@ -7,4 +7,8 @@ He usado HTML para darle el esqueleto a la página, JavaScript para darle la fun
 
 Este Challenge me ayudó para entender más a fondo JavaScript, usar mi lógica, revisar cuidadosamente el codigo y su descripcion, ya que el minimo detalle, no dejara que el codigo funcione apropiadamente en HTML.
 
-Le puse fondos, pero al momento de subirlo y renderizar el codigo. No se muestran como queria. De forma que, modifique el codigo. Pero aun asi, perdio algunos valores al momento de crear el enlace en line. Disculpe el error. Pero estamos para aprender.
+Le puse fondos, pero al momento de subirlo y renderizar el codigo. No se muestran como queria. De forma que, modifique el codigo. Pero aun asi, perdio algunos valores al momento de crear el enlace en linea y subirlo, ya que se quedo con las modificaciones hechas. Disculpe el error. Pero estamos para aprender.
+
+Sino, habria quedado asi: 
+
+![image](https://github.com/user-attachments/assets/42d195bd-129b-4648-adc5-4d63ecf3229c)
